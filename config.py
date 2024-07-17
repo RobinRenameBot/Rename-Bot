@@ -58,8 +58,7 @@ Use These Keywords To Setup Custom File Name
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
 <b>📢 Channel :</b> <a href='https://t.me/PandaWep'>PandaWep</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/PandaWep'>PandaWep</a>
-    
-<b>♻️ Bot Made By :</b> @PandaWep"""
+"""
 
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
