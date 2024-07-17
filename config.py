@@ -29,29 +29,20 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """Hello {} 👋 
-
-➻ This Is An Advanced And Yet Powerful Rename Bot.
-
-➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.
-
-➻ You Can Also Convert Video To File And File To Video.
-
-➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
-
-<b>Bot Is Made By :</b> @PandaWep"""
+    START_TXT = """Hᴇʟʟᴏ {}
+Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Yᴏᴜʀ Fɪʟᴇs Iɴᴛᴏ Vɪᴅᴇᴏ Oʀ Aᴅᴠᴀɴᴄᴇᴅ Fɪʟᴇ Fᴏʀᴍᴀᴛ Aɴᴅ I Hᴀᴠᴇ Aʟsᴏ Fᴀsᴛ Sᴘᴇᴇᴅ. Tʀʏ Usɪɴɢ Mᴇ!
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
     ABOUT_TXT = """
-╭───────────────⍟
-├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/PandaWep>𝗣𝗮𝗻𝗱𝗮𝗪𝗲𝗽</a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/AshutoshGoswami24>𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵 𝗚𝗼𝘀𝘄𝗮𝗺𝗶</a>
-├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
-├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
-├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>📊 Build Version</b> : <a href=https://t.me/AshutoshGoswami24>Rename v4.5.0</a></b>     
-╰───────────────⍟
+
+<b>Mʏ Bᴏᴛ Nᴀᴍᴇ</b> : {}
+<b>Oᴡɴᴇʀ</b> : <a href=https://t.me/abidabdullah199>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a> 
+<b>Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/AnimeQuestX >Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
+<b>Hɪɴᴅɪ Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/AnimeQuestHindi>Jᴏɪɴ Nᴏᴡ</a>
+<b>Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/OngoingAnimeQuest >Jᴏɪɴ Nᴏᴡ</a>
+<b>Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ</b> : <a href=https://t.me/+r-x-wA4JT5gxZjVl>Jᴏɪɴ Nᴏᴡ</a>
+<b>Eʀʀᴏʀ Rᴇᴘᴏʀᴛ</b> : <a href=https://t.me/abidabdullah199>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>     
+
 """
 
     HELP_TXT = """
