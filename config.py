@@ -33,15 +33,13 @@ class Txt(object):
 Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Aʟsᴏ Cᴏɴᴠᴇʀᴛ Yᴏᴜʀ Fɪʟᴇs Iɴᴛᴏ Vɪᴅᴇᴏ Oʀ Aᴅᴠᴀɴᴄᴇᴅ Fɪʟᴇ Fᴏʀᴍᴀᴛ Aɴᴅ I Hᴀᴠᴇ Aʟsᴏ Fᴀsᴛ Sᴘᴇᴇᴅ. Tʀʏ Usɪɴɢ Mᴇ!
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
-    ABOUT_TXT = """
 
-Mʏ Bᴏᴛ Nᴀᴍᴇ : {}
-Oᴡɴᴇʀ : <a href=https://t.me/abidabdullah199>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a> 
-Cʜᴀɴɴᴀʟ : <a href=https://t.me/AnimeQuestX>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
-Hɪɴᴅɪ Cʜᴀɴɴᴀʟ : <a href=https://t.me/AnimeQuestHindi>Jᴏɪɴ Nᴏᴡ</a>
-Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ : <a href=https://t.me/OngoingAnimeQuest >Jᴏɪɴ Nᴏᴡ</a>
-Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ : <a href=https://t.me/+r-x-wA4JT5gxZjVl>Jᴏɪɴ Nᴏᴡ</a>
-Eʀʀᴏʀ Rᴇᴘᴏʀᴛ : <a href=https://t.me/abidabdullah199>Cʟɪᴄᴋ Hᴇʀᴇ</a>     
+    ABOUT_TXT = f"""<b>○ Mʏ Nᴀᴍᴇ :</b>
+<b>○ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
+<b>○ Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
+<b>○ Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
+<b>○ Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ :</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Jᴏɪɴ Nᴏᴡ</a>
+<b>○ Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a>     
 
 """
 
