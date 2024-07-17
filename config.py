@@ -34,7 +34,7 @@ Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ 
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
 
-    ABOUT_TXT = f"""<b> My Name :</b>
+    ABOUT_TXT = f"""
 <b> Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
 <b> Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
 <b> Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
