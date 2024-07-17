@@ -48,28 +48,28 @@ Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ 
     HELP_TXT = """
  <b>Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ<u></u></b>
   
- /Start - [Cʟɪᴄᴋ Hᴇʀᴇ Oʀ Sᴛᴀʀᴛ Tɢᴇ Bᴏᴛ Tʜᴇɴ Sᴇɴᴅ Aɴʏ Iᴍᴀɢᴇ Tᴏ Sᴇᴛ Fɪʟᴇ Tʜᴜᴍʙɴᴀɪʟ.]
- /del_thumb - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Cᴜʀʀᴇɴᴛʟʏ Rᴜɴɴɪɴɢ Tʜᴜᴍʙɴᴀɪʟ.]
- /view_thumb - [Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪʟʟ Sʜᴏᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Yᴏᴜ Aʀᴇ Usɪɴɢ.]
+○ /Start - [Cʟɪᴄᴋ Hᴇʀᴇ Oʀ Sᴛᴀʀᴛ Tɢᴇ Bᴏᴛ Tʜᴇɴ Sᴇɴᴅ Aɴʏ Iᴍᴀɢᴇ Tᴏ Sᴇᴛ Fɪʟᴇ Tʜᴜᴍʙɴᴀɪʟ.]
+○ /del_thumb - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Cᴜʀʀᴇɴᴛʟʏ Rᴜɴɴɪɴɢ Tʜᴜᴍʙɴᴀɪʟ.]
+○ /view_thumb - [Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪʟʟ Sʜᴏᴡ Yᴏᴜʀ Cᴜʀʀᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Yᴏᴜ Aʀᴇ Usɪɴɢ.]
 
  <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴀᴘᴛɪᴏɴs</u></b>
 
- /set_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴛ A Nᴇᴡ Cᴀᴘᴛɪᴏɴ.]
- /see_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴇ Cᴀᴘᴛɪᴏɴ Wʜᴀᴛ ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ.]
- /del_caption - [Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪʟʟ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴀᴘᴛɪᴏɴ.]
+○ /set_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴛ A Nᴇᴡ Cᴀᴘᴛɪᴏɴ.]
+○ /see_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴇ Cᴀᴘᴛɪᴏɴ Wʜᴀᴛ ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ.]
+○ /del_caption - [Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪʟʟ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴀᴘᴛɪᴏɴ.]
 
-Qᴜɪᴄᴋ Tᴜᴛᴏʀɪᴀʟ -
+○ Qᴜɪᴄᴋ Tᴜᴛᴏʀɪᴀʟ -
 Fɪʀsᴛ Sᴇɴᴅ Tʜᴜᴍʙɴᴀɪʟ ᴛʜᴇɴ Sᴇɴᴅ , Uᴘʟᴏᴀᴅ Oʀ Fᴏʀᴡᴀʀᴅ Aɴʏ Fɪʟᴇ Tʜᴇɴ Cʜᴏᴏᴄᴇ Vɪᴅᴇᴏ Oʀ Dᴏᴄᴜᴍᴇɴᴛ Fɪʟᴇ Aғᴛᴇʀ Wᴀɪᴛɪɴɢ Sᴏᴍᴇᴛʜɪᴍᴇs Yᴏᴜ Wɪʟʟ Gᴇᴛ Rᴇsᴜʟᴛ.         
 
-Fᴏʀ Mᴏʀᴇ Hᴇʟᴘ Sᴇɴᴅ Mᴇ A Qᴜɪᴄᴋ Mᴇssᴀɢᴇ :- <a href=https://t.me/abidabdullah199>Aᴅᴍɪɴ</a>
+○ Fᴏʀ Mᴏʀᴇ Hᴇʟᴘ Sᴇɴᴅ Mᴇ A Qᴜɪᴄᴋ Mᴇssᴀɢᴇ :- <a href=https://t.me/abidabdullah199>Aᴅᴍɪɴ</a>
 """
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ Pʀᴏɢʀᴇss Bᴀʀ ❱
-┣ 🗃️ Sɪᴢᴇ: {1} | {2}
-┣ ⏳️ Dᴏɴᴇ: {0}%
-┣ 🚀 Sᴩᴇᴇᴅ: {3}/s
-┣ ⏰️ Eᴛᴀ: {4}
+┣○ 🗃️ Sɪᴢᴇ: {1} | {2}
+┣○ ⏳️ Dᴏɴᴇ: {0}%
+┣○ 🚀 Sᴩᴇᴇᴅ: {3}/s
+┣○ ⏰️ Eᴛᴀ: {4}
 ╰━━━━━━━━━━━━━━━ </b>"""
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
