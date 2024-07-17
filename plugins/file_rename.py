@@ -60,7 +60,7 @@ async def refunc(client, message):
         elif file.media == MessageMediaType.AUDIO:
             button.append([InlineKeyboardButton("🎵 Oʀ Aᴜᴅɪᴏ Fᴏʀᴍᴀᴛ", callback_data = "upload_audio")])
         await message.reply(
-            text=f"**Select The Output File Type**\n\n**File Name :-** `{new_name}`",
+            text=f"**Sᴇʟᴇᴄᴛ Oᴜᴛᴘᴜᴛ Fɪʟᴇ Tʏᴘᴇ**\n\n**File Name :-** `{new_name}`",
             reply_to_message_id=file.id,
             reply_markup=InlineKeyboardMarkup(button)
         )
@@ -136,7 +136,7 @@ async def doc(bot, update):
          img.resize((320, 320))
          img.save(ph_path, "JPEG")
 
-    await ms.edit("𝗣𝗮𝗻𝗱𝗮𝗪𝗲𝗽 𝗧𝗿𝘆𝗶𝗻𝗴 𝗧𝗼 𝗨𝗽𝗹𝗼𝗮𝗱𝗶𝗻𝗴")
+    await ms.edit("Rᴏʙɪɴ Is Tʀʏɪɴɢ Tᴏ Uᴘʟᴏᴀᴅ")
     type = update.data.split("_")[1]
     try:
         if type == "document":
