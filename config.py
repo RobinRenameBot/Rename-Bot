@@ -26,8 +26,9 @@ class Config(object):
 class Txt(object):
     # part of text configuration
         
-    START_TXT = """Hello {} 
-    I ᴀᴍ Nᴇᴄᴏ Rᴏʙɪɴ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Mᴀᴋᴇ Oᴜᴛᴘᴜᴛ Wɪᴛʜ Yᴏᴜʀ Dᴇsɪʀᴇᴅ Fᴏʀᴍᴀᴛ Tʀʏ Tᴏ Usᴇ Mᴇ Oʀ Sᴇɴᴅ /ʜᴇʟᴘ Fᴏʀ Mᴏʀᴇ Assɪsᴛᴇɴᴛs.
+    START_TXT = """Hᴇʟʟᴏ {} 
+I ᴀᴍ Nɪᴄᴏ Rᴏʙɪɴ
+I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Mᴀᴋᴇ Oᴜᴛᴘᴜᴛ Wɪᴛʜ Yᴏᴜʀ Dᴇsɪʀᴇᴅ Fᴏʀᴍᴀᴛ Tʀʏ Tᴏ Usᴇ Mᴇ Oʀ Sᴇɴᴅ /ʜᴇʟᴘ Fᴏʀ Mᴏʀᴇ Assɪsᴛᴇɴᴛs.
 """
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
