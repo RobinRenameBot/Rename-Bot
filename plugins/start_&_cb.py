@@ -12,7 +12,7 @@ async def start(client, message):
     await AshutoshGoswami24.add_user(client, message)                
     button = InlineKeyboardMarkup([
         [InlineKeyboardButton('○ Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ', url='https://t.me/AnimeQuestX'),
-        InlineKeyboardButton('○ Aɴɪᴍᴇ Cʜᴀɴɴᴀʟ Hɪɴᴅɪ', url='https://t.me/AnimeQuestHindi')],
+        InlineKeyboardButton('○ Aɴɪᴍᴇ Hɪɴᴅɪ', url='https://t.me/AnimeQuestHindi')],
         [InlineKeyboardButton('○ Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('○ Hᴇʟᴘ', callback_data='help')],
         [InlineKeyboardButton("○ Oᴡɴᴇʀ", url='https://t.me/abidabdullah199')]
