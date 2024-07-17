@@ -27,18 +27,7 @@ class Txt(object):
     # part of text configuration
         
     START_TXT = """Hello {} 
-    
-➻ This Is An Advanced And Yet Powerful Rename Bot.
-    
-➻ Using This Bot You Can Auto Rename Of Your Files.
-    
-➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
-    
-➻ Use /tutorial Command To Know How To Use Me.
-
-<b>Bot Is Made By @PandaWep</b>
-
-<b><a href='https://github.com/AshutoshGoswami24/Auto-Rename-Bot'>AshutoshGoswami24/Auto-Rename-Bot.git</a></b>
+    I ᴀᴍ Nᴇᴄᴏ Rᴏʙɪɴ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇ Wɪᴛʜ Pᴀʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Mᴀᴋᴇ Oᴜᴛᴘᴜᴛ Wɪᴛʜ Yᴏᴜʀ Dᴇsɪʀᴇᴅ Fᴏʀᴍᴀᴛ Tʀʏ Tᴏ Usᴇ Mᴇ Oʀ Sᴇɴᴅ /ʜᴇʟᴘ Fᴏʀ Mᴏʀᴇ Assɪsᴛᴇɴᴛs.
 """
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
@@ -61,14 +50,14 @@ Use These Keywords To Setup Custom File Name
 """
 
     
-    THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
+    THUMBNAIL_TXT = """<b><u>  Hᴏᴡ Tᴏ Sᴇᴛ Tʜᴜᴍʙɴᴀɪʟ</u></b>
     
 ⦿ You Can Add Custom Thumbnail Simply By Sending A Photo To Me....
     
 ⦿ /viewthumb - Use This Command To See Your Thumbnail
 ⦿ /delthumb - Use This Command To Delete Your Thumbnail"""
 
-    CAPTION_TXT = """<b><u>📝  HOW TO SET CAPTION</u></b>
+    CAPTION_TXT = """<b><u>  Hᴏᴡ Tᴏ Sᴇᴛ Cᴀᴘᴛɪᴏɴ</u></b>
     
 ⦿ /set_caption - Use This Command To Set Your Caption
 ⦿ /see_caption - Use This Command To See Your Caption
@@ -76,23 +65,19 @@ Use These Keywords To Setup Custom File Name
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
-┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
-┣⪼ ⏳️ Dᴏɴᴇ : {0}%
-┣⪼ 🚀 Sᴩᴇᴇᴅ: {3}/s
-┣⪼ ⏰️ Eᴛᴀ: {4}
-┣⪼ 🥺 joine Plz: @PandaWep
-╰━━━━━━━━━━━━━━━➣ </b>"""
+┣ 🗃️ Sɪᴢᴇ: {1} | {2}
+┣ ⏳️ Dᴏɴᴇ : {0}%
+┣ 🚀 Sᴩᴇᴇᴅ: {3}/s
+┣ ⏰️ Eᴛᴀ: {4}
+┣ 🥺 Join: @AnimeQuestX
+╰━━━━━━━━━━━━━━━ </b>"""
     
     
-    DONATE_TXT = """<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
+    DONATE_TXT = """<b>Dᴏɴᴀᴛᴇ Tʜᴏᴏsᴇ Wʜᴏ Rᴇᴀʟʟʏ Nᴇᴇᴅ Iᴛ ❤️</b>
     
-If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
+ """
     
-<b>My UPI - PandaWep@ybl</b> """
-    
-    HELP_TXT = """<b>Hey</b> {}
-    
-Joine @PandaWep To Help """
+    HELP_TXT = """Iɴʙᴏx Mᴇ @abidabdullah199 """
 
 
 
