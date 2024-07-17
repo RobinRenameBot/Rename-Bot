@@ -34,12 +34,12 @@ Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ 
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
 
-    ABOUT_TXT = f"""<b>○ Mʏ Nᴀᴍᴇ :</b>
-<b>○ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
-<b>○ Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
-<b>○ Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
-<b>○ Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ :</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Jᴏɪɴ Nᴏᴡ</a>
-<b>○ Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a>     
+    ABOUT_TXT = f"""<b> Mʏ Nᴀᴍᴇ :</b>
+<b> Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestX'>Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
+<b> Hɪɴᴅɪ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/AnimeQuestHindi'>Jᴏɪɴ Nᴏᴡ</a>
+<b> Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ :</b> <a href='https://t.me/OngoingAnimeQuest'>Jᴏɪɴ Nᴏᴡ</a>
+<b> Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ :</b> <a href='https://t.me/+r-x-wA4JT5gxZjVl'>Jᴏɪɴ Nᴏᴡ</a>
+<b> Oᴡɴᴇʀ :</b> <a href='https://t.me/abidabdullah199'>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a>     
 
 """
 
@@ -76,3 +76,4 @@ Fᴏʀ Mᴏʀᴇ Hᴇʟᴘ Sᴇɴᴅ Mᴇ A Qᴜɪᴄᴋ Mᴇssᴀɢᴇ :- <a hr
 
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
+
