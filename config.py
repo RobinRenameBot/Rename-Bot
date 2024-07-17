@@ -35,13 +35,13 @@ Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ 
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
     ABOUT_TXT = """
 
-<b> Mʏ Bᴏᴛ Nᴀᴍᴇ</b> : {}
-<b> Oᴡɴᴇʀ</b> : <a href=https://t.me/abidabdullah199>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a> 
-<b> Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/AnimeQuestX >Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
-<b> Hɪɴᴅɪ Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/AnimeQuestHindi>Jᴏɪɴ Nᴏᴡ</a>
-<b> Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/OngoingAnimeQuest >Jᴏɪɴ Nᴏᴡ</a>
-<b> Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ</b> : <a href=https://t.me/+r-x-wA4JT5gxZjVl>Jᴏɪɴ Nᴏᴡ</a>
-<b> Eʀʀᴏʀ Rᴇᴘᴏʀᴛ</b> : <a href=https://t.me/abidabdullah199>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>     
+<b>Mʏ Bᴏᴛ Nᴀᴍᴇ</b> : {}
+<b>Oᴡɴᴇʀ</b> : <a href=https://t.me/abidabdullah199>Mᴏɴᴋᴇʏ D Lᴜғғʏ</a> 
+<b>Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/AnimeQuestX >Aɴɪᴍᴇ Qᴜᴇsᴛ</a>
+<b>Hɪɴᴅɪ Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/AnimeQuestHindi>Jᴏɪɴ Nᴏᴡ</a>
+<b>Oɴɢᴏɪɴɢ Cʜᴀɴɴᴀʟ</b> : <a href=https://t.me/OngoingAnimeQuest >Jᴏɪɴ Nᴏᴡ</a>
+<b>Dɪsᴄᴜssᴛɪᴏɴ Gʀᴏᴜᴘ</b> : <a href=https://t.me/+r-x-wA4JT5gxZjVl>Jᴏɪɴ Nᴏᴡ</a>
+<b>Eʀʀᴏʀ Rᴇᴘᴏʀᴛ</b> : <a href=https://t.me/abidabdullah199>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>     
 
 """
 
@@ -54,14 +54,14 @@ Iᴀᴍ Kᴀᴡᴀɪ Nɪᴄᴏ Rᴏʙɪɴ! I ᴄᴀɴ Rᴇɴᴀᴍᴇ , Aᴅᴅ 
 
  <b><u>Hᴏᴡ Tᴏ Sᴇᴛ Cᴀᴘᴛɪᴏɴs</u></b>
 
- /set_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴛ A Nᴇᴡ Cᴀᴘᴛɪᴏɴ.]
- /see_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴇ Cᴀᴘᴛɪᴏɴ Wʜᴀᴛ ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ.]
- /del_caption - [Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪʟʟ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴀᴘᴛɪᴏɴ.]
+/set_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴛ A Nᴇᴡ Cᴀᴘᴛɪᴏɴ.]
+/see_caption - [Usᴇ Tʜɪs Cᴏᴍᴍᴀɴᴅ Tᴏ Sᴇᴇ Cᴀᴘᴛɪᴏɴ Wʜᴀᴛ ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ.]
+/del_caption - [Tʜɪs Cᴏᴍᴍᴀɴᴅ Wɪʟʟ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Cᴀᴘᴛɪᴏɴ.]
 
- Qᴜɪᴄᴋ Tᴜᴛᴏʀɪᴀʟ -
+Qᴜɪᴄᴋ Tᴜᴛᴏʀɪᴀʟ -
 Fɪʀsᴛ Sᴇɴᴅ Tʜᴜᴍʙɴᴀɪʟ ᴛʜᴇɴ Sᴇɴᴅ , Uᴘʟᴏᴀᴅ Oʀ Fᴏʀᴡᴀʀᴅ Aɴʏ Fɪʟᴇ Tʜᴇɴ Cʜᴏᴏᴄᴇ Vɪᴅᴇᴏ Oʀ Dᴏᴄᴜᴍᴇɴᴛ Fɪʟᴇ Aғᴛᴇʀ Wᴀɪᴛɪɴɢ Sᴏᴍᴇᴛʜɪᴍᴇs Yᴏᴜ Wɪʟʟ Gᴇᴛ Rᴇsᴜʟᴛ.         
 
- Fᴏʀ Mᴏʀᴇ Hᴇʟᴘ Sᴇɴᴅ Mᴇ A Qᴜɪᴄᴋ Mᴇssᴀɢᴇ :- <a href=https://t.me/abidabdullah199>Aᴅᴍɪɴ</a>
+Fᴏʀ Mᴏʀᴇ Hᴇʟᴘ Sᴇɴᴅ Mᴇ A Qᴜɪᴄᴋ Mᴇssᴀɢᴇ :- <a href=https://t.me/abidabdullah199>Aᴅᴍɪɴ</a>
 """
 
     PROGRESS_BAR = """<b>\n
