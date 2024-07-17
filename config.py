@@ -16,8 +16,8 @@ class Config(object):
     ADMIN = int(os.environ.get("ADMIN", "5296584067"))
 
     # channels logs
-    FORCE_SUB   = os.environ.get("FORCE_SUB", "-1002125561929") 
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002172487703"))
+    FORCE_SUB   = os.environ.get("FORCE_SUB", "@abidabdullah199") 
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "@robinfilerenamelog"))
     
 
     # wes response configuration     
